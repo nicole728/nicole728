@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Haru
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning Python and everything interesting about CS.
